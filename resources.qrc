@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Bonus.png</file>
+        <file>images/Caption.png</file>
+        <file>images/fon.jpg</file>
+        <file>images/Food.jpg</file>
+        <file>images/Heart.png</file>
+        <file>images/Pit.png</file>
+        <file>images/style.txt</file>
+        <file>images/Wall.jpg</file>
+        <file>images/downHead.png</file>
+        <file>images/leftHead.png</file>
+        <file>images/rightHead.png</file>
+        <file>images/topHead.png</file>
+        <file>images/BGr.jpg</file>
+    </qresource>
+    <qresource prefix="/maps">
+        <file>maps/info.txt</file>
+        <file>maps/level1.txt</file>
+        <file>maps/level2.txt</file>
+        <file>maps/level3.txt</file>
+        <file>maps/level4.txt</file>
+        <file>maps/level5.txt</file>
+        <file>maps/level6.txt</file>
+    </qresource>
+</RCC>
